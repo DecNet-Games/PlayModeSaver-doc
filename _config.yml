@@ -1,0 +1,12 @@
+title: PlayModeSaver
+description: Stop losing work in Play Mode. Save runtime changes, create presets, and track scene modifications instantly in Unity.
+theme: just-the-docs
+
+url: https://AnshSinghRajput099.github.io/PlayModeSaver-doc
+
+aux_links:
+  GitHub Repository: https://github.com/AnshSinghRajput099/PlayModeSaver-doc
+  Download: https://github.com/AnshSinghRajput099/PlayModeSaver-doc/releases
+
+back_to_top: true
+search_enabled: true
