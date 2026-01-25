@@ -12,7 +12,7 @@ permalink: /docs/installation
 1.  Open Unity.
 2.  Go to `Window > Package Manager`.
 3.  Click `+ > Add package from git URL...`.
-4.  Enter: `https://github.com/AnshSinghRajput099/PlayModeSaver.git`
+4.  Enter: `https://github.com/decnet-games/PlayModeSaver.git`
 5.  Click **Add**.
 
 ## Option 2: .unitypackage
