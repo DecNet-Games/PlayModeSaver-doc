@@ -41,5 +41,5 @@ PlayModeSaver is the ultimate Unity tool for retaining runtime changes, creating
 *   **Change Record**: A specific modification (e.g., `Transform.position` changed).
 *   **Attributes**: Use `[SaveOnPlayModeExit]` to enforce saving for specific fields.
 
-[Install Now](./docs/installation.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View Features](./docs/features/index.md){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Install Now](./docs/installation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View Features](./docs/features/index){: .btn .fs-5 .mb-4 .mb-md-0 }
