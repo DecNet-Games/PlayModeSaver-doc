@@ -17,7 +17,7 @@ permalink: /docs/installation
 ---
 
 ## 1. Purchase & Download
-The Usage of **Play Mode Saver** requires a license from the Unity Asset Store.
+The Usage of **Play Mode Saver – Don’t Lose Your Runtime Tweaks** requires a license from the Unity Asset Store.
 
 1.  Visit the **[Unity Asset Store Page](https://assetstore.unity.com/packages/slug/357936)**.
 2.  Purchase and Add the asset to your library.
