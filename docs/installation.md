@@ -6,25 +6,39 @@ permalink: /docs/installation
 ---
 
 # Installation
+{: .no_toc }
 
-## Option 1: Unity Package Manager (Recommended)
+## Table of contents
+{: .no_toc .text-delta }
 
-1.  Open Unity.
-2.  Go to `Window > Package Manager`.
-3.  Click `+ > Add package from git URL...`.
-4.  Enter: `https://github.com/decnet-games/PlayModeSaver.git`
-5.  Click **Add**.
-
-## Option 2: .unitypackage
-
-1.  Download the latest `.unitypackage` from the [Releases](https://github.com/AnshSinghRajput099/PlayModeSaver/releases) page.
-2.  Drag and drop the file into your `Assets` folder.
-3.  Click **Import** when prompted.
+1. TOC
+{:toc}
 
 ---
 
-## Verifying Installation
+## 1. Purchase & Download
+The Usage of **Unity Scene Dependency Graph** requires a license from the Unity Asset Store.
+
+1.  Visit the **[Unity Asset Store Page](https://assetstore.unity.com)**.
+2.  Purchase and Add the asset to your library.
+3.  Open your Unity Project.
+
+## 2. Import into Unity
+1.  In Unity, verify you are using a supported version (**2021.3 LTS** or higher).
+2.  Go to **Window > Package Manager**.
+3.  Select **Packages: My Assets** from the top-left dropdown.
+4.  Search for **"Scene Dependency Graph"**.
+5.  Click **Download** (if not already downloaded).
+6.  Click **Import**.
+7.  In the Import window, ensure all files are checked and click **Import** again.
+
+
+## 3. Verifying Installation
 
 To ensure PlayModeSaver is installed correctly:
-1.  Check the top menu bar for `Tools > PlayModeSaver`.
+1.  Check the top menu bar for **`Tools > PlayModeSaver`**.
 2.  Or simply enter Play Mode and make a change—if you see highlights in the Hierarchy, you're good to go!
+
+![Menu Location](/assets/images/menu_loc.png)
+
+---
