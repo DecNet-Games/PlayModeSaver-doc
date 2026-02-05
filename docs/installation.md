@@ -17,9 +17,9 @@ permalink: /docs/installation
 ---
 
 ## 1. Purchase & Download
-The Usage of **Unity Scene Dependency Graph** requires a license from the Unity Asset Store.
+The Usage of **Play Mode Saver** requires a license from the Unity Asset Store.
 
-1.  Visit the **[Unity Asset Store Page](https://assetstore.unity.com)**.
+1.  Visit the **[Unity Asset Store Page](https://assetstore.unity.com/packages/slug/357936)**.
 2.  Purchase and Add the asset to your library.
 3.  Open your Unity Project.
 
@@ -27,7 +27,7 @@ The Usage of **Unity Scene Dependency Graph** requires a license from the Unity 
 1.  In Unity, verify you are using a supported version (**2021.3 LTS** or higher).
 2.  Go to **Window > Package Manager**.
 3.  Select **Packages: My Assets** from the top-left dropdown.
-4.  Search for **"Scene Dependency Graph"**.
+4.  Search for **"Play Mode Saver"**.
 5.  Click **Download** (if not already downloaded).
 6.  Click **Import**.
 7.  In the Import window, ensure all files are checked and click **Import** again.
